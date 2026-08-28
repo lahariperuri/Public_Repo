@@ -1,0 +1,323 @@
+<journal>
+<journal-meta>
+<journal-id journal-id-type="publisher">PC</journal-id>
+<journal-title-group>
+<journal-title>Pacific Conservation Biology</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Pac. Conserv. Biol.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1038-2097</issn>
+<issn pub-type="epub">2204-4604</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">EA</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Experimental Agriculture</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Exp. Agric.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0816-1089</issn>
+<issn pub-type="epub">1446-5574</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">AR</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Agricultural Research</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Agric. Res.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-9409</issn>
+<issn pub-type="epub">1444-9838</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">RD</journal-id>
+<journal-title-group>
+<journal-title>Reproduction, Fertility and Development</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Reprod. Fertil. Dev.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1031-3613</issn>
+<issn pub-type="epub">1448-5990</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">WR</journal-id>
+<journal-title-group>
+<journal-title>Wildlife Research</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Wildlife Res.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1035-3712</issn>
+<issn pub-type="epub">1448-5494</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">BT</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Botany</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Bot.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0067-1924</issn>
+<issn pub-type="epub">1444-9862</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">CH</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Chemistry</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Chem.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-9425</issn>
+<issn pub-type="epub">1445-0038</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">FP</journal-id>
+<journal-title-group>
+<journal-title>Functional Plant Biology</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Funct. Plant Biol.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1445-4408</issn>
+<issn pub-type="epub">1445-4416</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">PP</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Plant Physiology</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Plant Physiol.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0310-7841</issn>
+<issn pub-type="epub">1446-5655</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">IS</journal-id>
+<journal-title-group>
+<journal-title>Invertebrate Systematics</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Invertebr. Syst.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1445-5226</issn>
+<issn pub-type="epub">1447-2600</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">IT</journal-id>
+<journal-title-group>
+<journal-title>Invertebrate Taxonomy</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Invertebr. Taxon.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0818-0164</issn>
+<issn pub-type="epub">1445-4572</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">MF</journal-id>
+<journal-title-group>
+<journal-title>Marine and Freshwater Research</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Mar. Freshw. Res.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1323-1650</issn>
+<issn pub-type="epub">1448-6059</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">SB</journal-id>
+<journal-title-group>
+<journal-title>Australian Systematic Botany</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. Syst. Bot.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1030-1887</issn>
+<issn pub-type="epub">1446-5701</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">SH</journal-id>
+<journal-title-group>
+<journal-title>Sexual Health</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sex. Health</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1448-5028</issn>
+<issn pub-type="epub">1449-8987</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">SR</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Soil Research</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Soil Res.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-9573</issn>
+<issn pub-type="epub">1446-568X</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<journal-meta>
+<journal-id journal-id-type="publisher">ZO</journal-id>
+<journal-title-group>
+<journal-title>Australian Journal of Zoology</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Aust. J. Zool.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-959X</issn>
+<issn pub-type="epub">1446-5698</issn>
+<publisher>
+<publisher-name>CSIRO Publishing</publisher-name>
+<publisher-loc>
+<addr-line content-type="street">36 Gardiner Road</addr-line>
+<addr-line content-type="suburb">Clayton</addr-line>
+<addr-line content-type="postcode">3168</addr-line>
+<addr-line content-type="city">Melbourne</addr-line>
+<addr-line content-type="state">Victoria</addr-line>
+<country>Australia</country>
+</publisher-loc>
+</publisher>
+</journal-meta>
+</journal>
